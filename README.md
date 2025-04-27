@@ -4,16 +4,18 @@
 A Passionate Machine Learning Engineer
 
 Empowering startups and freelancers to streamline operations and drive growth with tailored AI solutions.
+---
+## My Projects
 
+- **Customers Services Agent**: [Project Repository](https://github.com/hasan221b/lumi_ai_customers_servicers)
+- **End-to-End sentiment analysis MLOPs project**: [Project Repository](https://github.com/hasan221b/finbert-sentiment-analysis) 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **AI & ML**: Python, LLMs, RAG, TensorFlow, PyTorch, Scikit-learn, LangChain
+- **AI & ML**: Python, LLMs, RAG, Agents, ChatBots,TensorFlow, PyTorch, Scikit-learn, LangChain
 
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Power BI, Excel
-
-- **Automation**: Python scripting, Web scraping, Chat Bots
 
 - **Cloud & DevOps**: Docker, MLOps
 
