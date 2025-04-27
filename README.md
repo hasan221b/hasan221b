@@ -3,7 +3,7 @@
 
 A Passionate Machine Learning Engineer
 
-Empowering startups and freelancers to streamline operations and drive growth with tailored AI solutions.
+Empowering startups and individuals to streamline operations and drive growth with tailored AI solutions.
 ---
 ## My Projects
 
