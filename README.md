@@ -1,14 +1,15 @@
 
 # Hi there, I'm Hasan Abdulrahman! 👋
 
-A Passionate Machine Learning Engineer
+A Passionate AI Engineer
 
 Empowering startups and individuals to streamline operations and drive growth with tailored AI solutions.
 ---
 ## My Projects
 
+
+- **Gym Tracking system**: [Project Repository](https://github.com/hasan221b/gym_bro)
 - **Customers Services Agent**: [Project Repository](https://github.com/hasan221b/lumi_ai_customers_servicers)
-- **End-to-End sentiment analysis MLOPs project**: [Project Repository](https://github.com/hasan221b/finbert-sentiment-analysis) 
 ---
 
 ## 🛠️ Technologies & Tools
@@ -28,5 +29,4 @@ Empowering startups and individuals to streamline operations and drive growth wi
 
 ---
 
-⭐ Feel free to check out my repositories and contribute! Happy coding! 😃
 
