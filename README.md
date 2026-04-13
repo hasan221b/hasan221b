@@ -8,7 +8,7 @@ Empowering startups and individuals to streamline operations and drive growth wi
 ## My Projects
 
 
-- **Gym Tracking system**: [Project Repository](https://github.com/hasan221b/gym_bro)
+- **Gym Tracking System**: [Project Repository](https://github.com/hasan221b/gym_bro)
 - **Customers Services Agent**: [Project Repository](https://github.com/hasan221b/lumi_ai_customers_servicers)
 ---
 
